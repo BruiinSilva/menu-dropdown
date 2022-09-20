@@ -1,2 +1,7 @@
 # menu-dropdown
-Menu DropDown usando Html, Css e JavaScript
+
+Menu DropDown usando 
+
+- Html
+- Css 
+- JavaScript
